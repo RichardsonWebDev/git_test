@@ -1,0 +1,10 @@
+Hello world, 
+
+I am a student of the Odin Project. I am currently learning Git basics or the basic Git workflow, as 
+they call it. I feel like I am in over my head learning this stuff - Git, terminal/command line, and 
+committing my work to the repository on GitHub, but I am going to remain optimistic. I know I'll learn 
+all that needs to be learned to become a successful web developer, I just have to maintain motivation 
+and perservere whenever I feel like giving up! 
+
+Thanks for reading!
+Brittany 
